@@ -1,1 +1,2 @@
 this is sample3.txt file
+sample2.txt modified
